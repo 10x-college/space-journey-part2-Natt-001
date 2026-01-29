@@ -58,7 +58,7 @@ Add an `<h2>` title: POPULAR FLIGHT PATHS.
 
 The Grid: Create a container `<div class="grid-wrapper">` to hold the cards.
 
-Destination Cards: You need to create 4 `<article>` elements inside the grid wrapper. For each article, use this structure:
+Destination Cards: You need to create 4 `<div class="grid-wrapper">` elements inside the grid wrapper. For each article, use this structure:
 
 HTML
 
